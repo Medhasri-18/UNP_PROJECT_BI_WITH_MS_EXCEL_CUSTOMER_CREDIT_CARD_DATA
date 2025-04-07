@@ -12,9 +12,4 @@ Key highlights:
 
 ## Excel File  
 You can access the Excel spreadsheet here:  
-[Excel Document](https://docs.google.com/spreadsheets/d/1z8d4NMki3zXjNYbkjiaGUXATUA-kjQH_/edit?gid=873751428#gid=873751428)
-
-
-## PDF File  
-You can view the PDF using the following link:  
-[PDF Document](https://drive.google.com/file/d/1vali6_hfTDGxzg46-upoSrdowEYz7wh0/view)
+[Excel Document] https://1drv.ms/x/c/9d118c33ece34614/EQ6os3brPC9ErVHCV-XTf50Bjwu6QalTbQkBhEjDOBffPQ?e=ZoLsmw
